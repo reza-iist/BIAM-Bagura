@@ -1,2 +1,2 @@
-# BIAM-Bagura
-Foundation Training for DTE Teachers' 
+# BIAM-Bagura 
+### Foundation training for DTE's Officials (Teachers')
