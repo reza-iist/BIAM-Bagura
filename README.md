@@ -7,3 +7,4 @@
 - check git version: open terminal or cmd then use the command `git --version` to find out whether git is installed or not. if git is installed it will return a version number of git.
 
 <br/>
+### [Lesson 3. How to set git environment and configuration](https://youtu.be/vj5-nkhTRbo)
